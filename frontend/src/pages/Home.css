@@ -1,0 +1,54 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    width:100%;
+    overflow-x:hidden;
+}
+
+
+
+.title{
+    font-family: 'Roboto Condensed';
+    font-weight: bolder;
+}
+
+.title-new{
+    font-family: 'Roboto Condensed';
+    font-weight: bolder;
+    margin-left: -35px;
+}
+
+.tex{
+    
+    align-items: center;
+    font-family: 'Roboto Condensed';
+    
+}
+
+.img {
+    width: 20rem;
+    height: 20rem;
+}
+
+.span{
+    color: #00d26a ;
+}
+
+@media screen and (max-width: 768px) {
+      
+    .main {
+        
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 2rem;
+   
+        
+    }
+     
+  }
+

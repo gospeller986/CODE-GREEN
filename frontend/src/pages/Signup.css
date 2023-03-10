@@ -1,0 +1,131 @@
+
+.image { 
+    width: 25rem;
+    height: 25rem;
+} 
+
+.button { 
+    padding-left: 1rem; 
+    padding-right: 1rem ;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    border-radius: 5rem;
+    background: rgb(20, 238, 238) ;
+}
+
+.sign {
+    color: aliceblue;
+}
+
+.email{ 
+    padding-left: 1.5rem; 
+    padding-right: 1.5rem; 
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    border-radius: 12px;
+    margin: 5px;
+}
+
+.pass {
+
+    padding-left: 1.5rem; 
+    padding-right: 1.5rem ; 
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    border-radius: 12px;
+
+} 
+.first {
+   
+    padding-left: 1.5rem; 
+    padding-right: 1.5rem ; 
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    border-radius: 12px;
+    margin-bottom: 5px;
+    margin-top: 5px ;
+
+
+}
+
+.last {
+    padding-left: 1.5rem; 
+    padding-right: 1.5rem ; 
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    border-radius: 12px;
+}
+
+form {
+
+    padding: 3em;
+    height: 25rem;
+    border-radius: 40px;
+
+    text-align: center;
+    position: relative;
+
+;
+    }
+ @media screen and (max-width: 768px) {
+      
+    form {
+
+        padding: 3em;
+        height: 23rem;
+        border-radius: 40px;
+        max-width: 70%;
+        margin-left: 4rem;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        position: relative;
+
+    ;
+        }
+        .email{ 
+            padding-left: 1.5rem; 
+            padding-right: 1.5rem; 
+            padding-top: 0.2rem;
+            padding-bottom: 0.2rem;
+            border-radius: 12px;
+            margin-left: -0.5rem;
+        }
+        
+        .pass {
+        
+            padding-left: 1.5rem; 
+            padding-right: 1.5rem ; 
+            padding-top: 0.2rem;
+            padding-bottom: 0.2rem;
+            border-radius: 12px;
+            margin-left: -0.5rem;
+        
+        }
+
+        .first {
+   
+            padding-left: 1.5rem; 
+            padding-right: 1.5rem ; 
+            padding-top: 0.2rem;
+            padding-bottom: 0.2rem;
+            border-radius: 12px;
+            margin-bottom: 5px;
+            margin-top: 5px ;
+            margin-left: -0.5rem;
+        
+        
+        }
+        
+        .last {
+            padding-left: 1.5rem; 
+            padding-right: 1.5rem ; 
+            padding-top: 0.2rem;
+            padding-bottom: 0.2rem;
+            border-radius: 12px;
+            margin-left: -0.5rem;
+        }
+         
+      }    
+
+   
