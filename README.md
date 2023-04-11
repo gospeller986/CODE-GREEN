@@ -22,7 +22,9 @@ The application is compatible for all screen size and is Hardware Independent.
 
 ## Frontend: ReactJs
 
-## Backend: Python (Flask), MongoDb
+## Backend: Python (Flask), Node , Express 
+
+## DB :  MongoDB 
 
 # HOW TO INSTALL
 
