@@ -3,35 +3,43 @@ It is a application based website which can be used to calculate the net Carbon 
 Other features include emission timelines, benchmarks and the emission equivalents.
 The application is compatible for all screen size and is Hardware Independent.
 
-Language and Frameworks Used:
+#Language and Frameworks Used:
 
 Frontend: ReactJs
 
 Backend: Python (Flask), MongoDb
 
-HOW TO INSTALL
+#HOW TO INSTALL
 
-Manual Installation
+##Manual Installation
 :
 It is recomended to install the backend first, make sure you have Python 3.8(Click Here)
 Create a project folder and a venv folder within:
 
-` mkdir myproject`
+```javascript 
+mkdir myproject
+```
 
-` cd myproject`
+```javascript 
+cd myproject
+```
 
 
-` py -3 -m venv venv`
+```python
+py -3 -m venv venv
+```
 
 Before you work on your project, activate the corresponding environment:
 `venv\Scripts\activate`
 
 Within the activated environment, use the following command to install Flask:
 
-`$ pip install Flask`
+```python
+$ pip install Flask
+```
 
 
-Go to local terminal and Enter:
+##Go to local terminal and Enter:
 `$ python run.py`
 
 
@@ -41,7 +49,7 @@ Install the packages: ` $ npx create-next-app`
 Start coding! start the webpack dev server `$ npm run start`
 
 
-WORKFLOW:
+#WORKFLOW:
 
 
 
@@ -54,7 +62,7 @@ WORKFLOW:
 
 
  
-USAGE:
+#USAGE:
 
 The CodeGreen Homepage opens up as soon as you run the application. The GUI looks like:-
 
@@ -227,7 +235,7 @@ The CodeGreen Homepage opens up as soon as you run the application. The GUI look
 
 
 
-Behind The Scenes
+#Behind The Scenes
 
 
 
